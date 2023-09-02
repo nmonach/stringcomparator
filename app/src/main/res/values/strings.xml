@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Comparador de Frases</string>
+    <string name="title">Comparador de cadena de caracteres</string>
+    <string name="string1_placeholder">Ingrese la 1er cadena de caracteres</string>
+    <string name="string2_placeholder">Ingrese la cadena de caracteres a comparar</string>
+    <string name="comparate">Comparar</string>
+    <string name="TextViewPlaceholder">Coincide o No Coincide?</string>
+    <string name="resultText">No Coincide</string>
+</resources>
